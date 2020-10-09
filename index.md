@@ -2,7 +2,7 @@
 
 ---
 
-### Apollo-head
+### Apollo (head)
 
 <!--[OSI Building Brands; Growing Business](/https://osicreative.com/)-->
 <!--<img src="images/dummy_thumbnail.jpg?raw=true"/> -->
@@ -30,7 +30,7 @@
   <!-- OPTIONAL: Include prismatic.js for Magic Leap support -->
   <!--<script src="https://unpkg.com/@magicleap/prismatic/prismatic.min.js"></script>-->
 
-<model-viewer id="reveal" loading="eager" src="Models/scene.gltf" ar="" ar-modes="scene-viewer webxr quick-look" ios-src="Testa_di_Apollo.usdz" alt="Apollo-head" auto-rotate="" auto-rotate-delay="0" ar-scale="auto" camera-controls="" style="width: 95%; height: 500px" exposure="0.5"> 
+<model-viewer id="reveal" loading="eager" src="Models/scene.gltf" ar="" ar-modes="scene-viewer webxr quick-look" ios-src="Testa_di_Apollo.usdz" alt="Apollo (head)" auto-rotate="" auto-rotate-delay="0" ar-scale="auto" camera-controls="" style="width: 95%; height: 500px" exposure="0.5"> 
 </model-viewer>
 
 <!-- Loads <model-viewer> for modern browsers: -->
